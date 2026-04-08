@@ -1,3 +1,6 @@
+### Structure
+
+```
 📦 Project
 ├── LIB/
 │   ├── LinkNode/          → Custom linked list implementation
@@ -7,3 +10,4 @@
 │       ├── Bsort.h        → deklarasi ABsort & LNBsort
 │       └── Bsort.cpp      → implementasi ABsort & LNBsort
 └── main.cpp
+```
